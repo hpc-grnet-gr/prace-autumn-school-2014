@@ -16,8 +16,6 @@ Exercises for the Hybrid MPI+OpenMP hands-on session are located in the Hybrid f
 
 ## Scratch section
 
-Login procedure from command line:
-
-<iframe src="https://showterm.io/666bb31ab4a7fabf03b99" width="640" height="480"></iframe>
+Login procedure from command line: https://showterm.io/666bb31ab4a7fabf03b99
 
 The scratch folder contains small exercises showcased by the trainers during the corresponging session.
