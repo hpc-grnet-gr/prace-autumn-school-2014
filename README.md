@@ -1,21 +1,19 @@
 # prace-autumn-school-2014
 
-Training material and hands on for the PRACE Autumn School in Athens, Greece. More infor at: http://events.prace-ri.eu/event/athens-autumn-school-2014
+Training material and hands on for the PRACE Autumn School in Athens, Greece. More info at: http://events.prace-ri.eu/event/athens-autumn-school-2014
 
-## MPI section
+## Exercises
 
-Exercises for MPI hands-on session are located in the MPI folder. 
+Folder contains several source code files (exercises) that will be delivered/showcased 
+in parallel to the sessions. Please be patient, embrace active learning and don't peak
+into the solutions folder. 
 
-## OpenMP section
+## Materials
 
-Exercises for the OpenMP hands-on session are located in the OpenMP folder. 
+This folder includes helpful material for realizing the hands-on exercises
 
-## Hybrid MPI+OpenMP section
+Among other stuff the following may be useful:
 
-Exercises for the Hybrid MPI+OpenMP hands-on session are located in the Hybrid folder. 
-
-## Scratch section
-
-Login procedure from command line: https://showterm.io/666bb31ab4a7fabf03b99
-
-The scratch folder contains small exercises showcased by the trainers during the corresponging session.
+- Login procedure from command line: https://showterm.io/666bb31ab4a7fabf03b99
+- Modules available on login node: http://showterm.io/62aba0539f0cc6a6ab00c
+- Sample batch submission script: 
