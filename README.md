@@ -8,9 +8,7 @@ Folder contains several source code files (exercises) that will be delivered/sho
 in parallel to the sessions. Please be patient, embrace active learning and don't peak
 into the solutions folder. 
 
-## Materials
-
-This folder includes helpful material for realizing the hands-on exercises
+## More info
 
 Among other stuff the following may be useful:
 
