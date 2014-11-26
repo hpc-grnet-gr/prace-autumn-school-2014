@@ -16,4 +16,4 @@ Among other stuff the following may be useful:
 
 - Login procedure from command line: https://showterm.io/666bb31ab4a7fabf03b99
 - Modules available on login node: http://showterm.io/62aba0539f0cc6a6ab00c
-- Sample batch submission script: 
+
