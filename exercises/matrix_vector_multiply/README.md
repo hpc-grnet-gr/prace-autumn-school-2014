@@ -1,0 +1,6 @@
+- Initialize vectors and arrays
+- Distribute data and computations
+- Gather results
+- Create submission script and perform some benchmarking (go up to 16 cores the most)
+- Add OpenMP threads
+- Modify submission script and re-perform some benchmarking (go up to 16 cores the most)
